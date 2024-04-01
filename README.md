@@ -28,8 +28,6 @@ Customize the analysis or dashboard as per your requirements by modifying the da
 ## Contributions
 We welcome contributions and suggestions for improving our analysis and dashboard. If you have any ideas or feedback, feel free to create a pull request or open an issue.
 
-## License
-This project is licensed under the MIT License.
 
 ## Acknowledgments
 We would like to express our gratitude to everyone who has contributed to this project and supported us in our data analysis journey.
