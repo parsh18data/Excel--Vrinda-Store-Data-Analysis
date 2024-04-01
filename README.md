@@ -8,16 +8,16 @@ This repository contains an Excel file named Vrinda_Store_Analysis.xlsx, where w
 At Vrinda Store, we believe in data-driven decision-making. To facilitate this, we have collected and analyzed various aspects of our store operations, including sales, inventory, customer demographics, and more.
 
 ## File Structure
-Vrinda_Store_Analysis.xlsx: This Excel file contains multiple worksheets, each focusing on different aspects of our store's performance.
-Dashboard: The main highlight of this project is the dashboard sheet, where we have visualized key metrics and insights for easy interpretation.
+* Vrinda_Store_Analysis.xlsx: This Excel file contains multiple worksheets, each focusing on different aspects of our store's performance.
+* Dashboard: The main highlight of this project is the dashboard sheet, where we have visualized key metrics and insights for easy interpretation.
 
 ## Dashboard
 The dashboard provides an interactive overview of our store's performance, including:
 
-Sales trends over time
-Product-wise sales analysis
-Customer demographics
-Inventory status
+1. Sales trends over time
+2. Product-wise sales analysis
+3. Customer demographics
+4. Inventory status
 And more...
 
 ## How to Use
